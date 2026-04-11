@@ -1,8 +1,18 @@
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" width="33%">
+      <img src="01-Assets/USTO-MB-Logo.png" width="100px" alt="USTO-MB Logo"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="01-Assets/Principale-Logo.png" width="110px" alt="My Logo"/>
+    </td>
+    <td align="right" width="33%">
+      <img src="01-Assets/Faculti-Logo.png" width="90px" alt="Faculty Logo"/>
+    </td>
+  </tr>
+</table>
 
-<img src="01-Assets/USTO-MB-Logo.png" width="100px" alt="USTO-MB Logo"/>
-<img src="01-Assets/Principale-Logo.png" width="110px" alt="University Logo"/>
-<img src="01-Assets/Faculti-Logo.png" width="90px" alt="Faculty Logo"/>
+<div align="center">
 
 # 🚗 Obstacle Detection System
 ### Based on HC-SR04 Ultrasonic Sensor
