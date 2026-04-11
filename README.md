@@ -124,7 +124,7 @@ Obstacle-Detection-System/
 
 ### Controllers
 
-#### 🟦 Arduino Uno — Vehicle Brain
+#### 🟦 🚗 Arduino Uno — Vehicle Brain 💻
 | Spec | Value |
 |------|-------|
 | Microcontroller | ATmega328P |
@@ -145,7 +145,7 @@ Obstacle-Detection-System/
 
 ---
 
-#### 🔴 ESP32 — Remote Controller
+#### 🔴 🕹️ ESP32 — Remote Controller 📶
 | Spec | Value |
 |------|-------|
 | Microcontroller | Dev-KitV3 dual-core |
@@ -163,7 +163,7 @@ Obstacle-Detection-System/
 
 ---
 
-#### 📡 NRF24L01 + PA + LNA — Wireless Link (2.4 GHz)
+#### 📡 NRF24L01 + PA + LNA — Wireless Link (2.4 GHz) 📡
 | Spec | Value |
 |------|-------|
 | Frequency Band | 2.4 GHz (ISM) |
