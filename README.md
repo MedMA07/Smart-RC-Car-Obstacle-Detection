@@ -504,10 +504,9 @@ cd YOUR-REPO-NAME
 <a href="https://www.snapchat.com/add/med_ma7"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
 </p>
 
-📧 **Email:** elaminemed.ad@gmail.com 
-📱 **Phone/WhatsApp:** +213 668 59 87 10 
-📍 **Location:** Oran , Algeria
-
+📧 **Email:** elaminemed.ad@gmail.com <br>
+📱 **Phone/WhatsApp:** +213 668 59 87 10 <br>
+📍 **Location:** Oran, Algeria
 
 
 <div align="center">
