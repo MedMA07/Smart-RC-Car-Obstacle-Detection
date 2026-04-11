@@ -14,7 +14,7 @@
 
 <div align="left">
 
-# 🚗 Smart-L-Assistant (ADAS)
+# 🚗 Smart-RC-Car-Obstacle-Detection | Assistance to New Drivers 🚗
 ### Obstacle Detection & Automatic Braking System
 
 **Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf** **Faculté de Génie Électrique — M1 Instrumentation** **Academic Year: 2025 / 2026**
