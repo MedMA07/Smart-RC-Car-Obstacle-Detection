@@ -14,12 +14,12 @@
 
 <div align="center">
 
-# 🚗 Obstacle Detection System
-### Based on HC-SR04 Ultrasonic Sensor
+# 🚗 Smart-L-Assistant (ADAS)
+### Obstacle Detection & Automatic Braking System
 
-**Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf**  
-**Faculté de Génie Électrique — Section : M1 Instrumentation**  
-**Academic Year: 2025 / 2026**
+**Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf** **Faculté de Génie Électrique — M1 Instrumentation** **Academic Year: 2025 / 2026**
+
+</div>
 
 ---
 
