@@ -457,18 +457,18 @@ cd YOUR-REPO-NAME
 - Power the ESP32 (3.3V regulated)
 - Place an obstacle in front of the HC-SR04 and observe the OLED, LEDs, and motor response
 
----
+### ✅ Hardware Wiring Checklist
 
-### Wiring Checklist
-
-- [ ] HC-SR04: VCC→5V, TRIG→D9, ECHO→D10, GND→GND
-- [ ] L298N: ENA→D3, IN1→D2, IN2→D4, motor supply connected
-- [ ] NRF24L01 with PA and LNA  (Arduino): CE→D7, CSN→D8, SCK→D13, MOSI→D11, MISO→D12, VCC→**3.3V**, GND→GND
-- [ ] NRF24L01 with PA and LNA  (ESP32): CE→GPIO4, CSN→GPIO5, SCK→GPIO18, MOSI→GPIO23, MISO→GPIO19, VCC→**3.3V**, GND→GND
-- [ ] LEDs: Green→A0, Yellow→A1, Red→A2 (each with a 220Ω resistor)
-- [ ] Buzzer: signal pin→D5, GND→GND
-- [ ] OLED 0.98" 128*64 I2C : SDA→GPIO21, SCL→GPIO22, VCC→3.3V, GND→GND
-- [ ] Joystick: VCC→3.3V, GND→GND, Y-axis→GPIO35
+| Component | Pin Connections | Power | Status |
+| :--- | :--- | :---: | :---: |
+| **HC-SR04** | `TRIG` → **D9** \| `ECHO` → **D10** | 5V | [ ] |
+| **L298N Driver** | `ENA` → **D3** \| `IN1` → **D2** \| `IN2` → **D4** | 6-12V | [ ] |
+| **nRF24L01 (Uno)** | `CE`→**D7**, `CSN`→**D8**, `SCK`→**D13**, `MOSI`→**D11**, `MISO`→**D12** | **3.3V** | [ ] |
+| **nRF24L01 (ESP32)** | `CE`→**G4**, `CSN`→**G5**, `SCK`→**G18**, `MOSI`→**G23**, `MISO`→**G19** | **3.3V** | [ ] |
+| **LED Indicators** | `Green`→**A0** \| `Yellow`→**A1** \| `Red`→**A2** | 5V | [ ] |
+| **Buzzer** | `Signal` → **D5** | 5V | [ ] |
+| **OLED 0.96"** | `SDA` → **G21** \| `SCL` → **G22** | 3.3V | [ ] |
+| **Joystick** | `Y-Axis` → **G35** | 3.3V | [ ] |
 
 ---
 
