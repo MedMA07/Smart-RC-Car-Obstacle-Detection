@@ -227,15 +227,22 @@ Connected to the ESP32 via I2C bus (`SDA → GPIO21`, `SCL → GPIO22`). Display
 
 ## 📡 HC-SR04 Ultrasonic Sensor — Deep Dive
 
+### 📍 HC-SR04 Pinout Configuration
+
 ![US-HC-SR04 Pin ](01-Assets/US-HC-SR04.png)
 
+### 📡 Ultrasonic Signal Pulse Timing
+This diagram explains how the 10µs trigger pulse generates the echo signal.
 ![US-HC-SR04 Signal view ](01-Assets/hc-sr04.png)
+
 
 <div align="center">
 
+### 🔌 Vehicle Side: Arduino Uno Wiring Schematic
 ![Arduino Uno Wiring](01-Assets/Schematic%20de%20l'Arduino%20Uno%20(c%C3%B4t%C3%A9%20voiture).png)
 
 </div>
+
 
 ### General Presentation
 The HC-SR04 is a contactless distance measurement module based on the propagation of ultrasonic waves in air. It consists of two piezoelectric transducers: a **transmitter (T)** that generates the ultrasonic wave, and a **receiver (R)** that captures the echo after reflection off the obstacle.
