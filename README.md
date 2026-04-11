@@ -1,22 +1,18 @@
-<table width="100%" border="0">
+<table width="100%">
   <tr>
-    <th align="left" width="30%">
+    <th align="left">
       <img src="01-Assets/USTO-MB-Logo.png" width="100px" alt="USTO-MB Logo"/>
     </th>
-
-    <td width="5%"></td>
-
-    <th align="center" width="30%">
+    <th align="center">
       <img src="01-Assets/Principale-Logo.png" width="110px" alt="My Logo"/>
     </th>
-
-    <td width="5%"></td>
-
-    <th align="right" width="30%">
+    <th align="right">
       <img src="01-Assets/Faculti-Logo.png" width="90px" alt="Faculty Logo"/>
     </th>
   </tr>
 </table>
+
+<div align="left">
 
 # 🚗 Smart-L-Assistant (ADAS)
 ### Obstacle Detection & Automatic Braking System
