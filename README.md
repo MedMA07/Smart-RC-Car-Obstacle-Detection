@@ -402,7 +402,9 @@ Distance:   |←──── DANGER ────→|←────── WARNIN
 
 ### ESP32 — PCB Realization (Physical Board)
 
-![ESP32 PCB Realization](01-Assets/r%C3%A9alisation%20PCB%20de%20l'ESP32%20(contr%C3%B4leur%20distant).png)
+![ESP32 PCB Realization](01-Assets/realisation_pcb_esp32_01.png)
+
+![ESP32 PCB Realization](01-Assets/realisation_pcb_esp32_02.png)
 
 ---
 
