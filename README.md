@@ -24,7 +24,7 @@
 ---
 
 [![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://docs.arduino.cc/hardware/uno-rev3-smd/)
-[![ESP32](https://img.shields.io/badge/ESP32-Controller-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![ESP32](https://img.shields.io/badge/ESP32-Controller-E7352C?style=for-the-badge&logo=espressif&logoColor=white)]([https://www.espressif.com/en/products/socs/esp32](https://www.espressif.com/en/products/socs/esp32))
 [![C++](https://img.shields.io/badge/C++-Language-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
 
 
