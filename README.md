@@ -227,6 +227,10 @@ Connected to the ESP32 via I2C bus (`SDA → GPIO21`, `SCL → GPIO22`). Display
 
 ## 📡 HC-SR04 Ultrasonic Sensor — Deep Dive
 
+![US-HC-SR04 Pin ](01-Assets/US-HC-SR04.png)
+
+![US-HC-SR04 Signal view ](01-Assets/hc-sr04.png)
+
 <div align="center">
 
 ![Arduino Uno Wiring](01-Assets/Schematic%20de%20l'Arduino%20Uno%20(c%C3%B4t%C3%A9%20voiture).png)
