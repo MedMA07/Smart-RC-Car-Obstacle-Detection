@@ -380,15 +380,15 @@ Distance:   |←──── DANGER ────→|←────── WARNIN
 
 ---
 
-## 🗺️ Schematics & PCB
+## 🗺️ Schematics & PCB 📟
 
-### Arduino Uno — Vehicle Side Schematic
+### 💻 Arduino Uno — Vehicle Side Schematic 🚗
 
 ![Arduino Uno Schematic](01-Assets/Schematic%20de%20l'Arduino%20Uno%20(c%C3%B4t%C3%A9%20voiture).png)
 
 ---
 
-### ESP32 — Remote Controller Schematic
+### ESP32 — Remote Controller Schematic 🕹️
 
 ![ESP32 Schematic](01-Assets/Schematic%20de%20l'ESP32%20(contr%C3%B4leur%20distant).png)
 
@@ -403,7 +403,7 @@ Distance:   |←──── DANGER ────→|←────── WARNIN
 ### ESP32 — PCB Realization (Physical Board)
 
 ![ESP32 PCB Realization](01-Assets/realisation_pcb_esp32_01.png)
-
+ ###--------
 ![ESP32 PCB Realization](01-Assets/realisation_pcb_esp32_02.png)
 
 ---
