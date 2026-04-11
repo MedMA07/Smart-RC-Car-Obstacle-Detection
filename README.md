@@ -98,7 +98,8 @@ Obstacle-Detection-System/
 │   ├── USTO-MB-Logo.png                       # USTO-MB university logo
 │   ├── Schematic de l'ESP32 (contrôleur distant).png
 │   ├── PCB de l'ESP32 (contrôleur distant).png
-│   ├── réalisation PCB de l'ESP32 (contrôleur distant).png
+│   ├── realisation_pcb_esp32_01.png
+│   ├── realisation_pcb_esp32_02.png
 │   └── Schematic de l'Arduino Uno (côté voiture).png
 │
 ├── 📁 02-ESP32-(contrôleur-distant)/          # ESP32 firmware (remote controller)
