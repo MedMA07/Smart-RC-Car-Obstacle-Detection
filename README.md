@@ -390,7 +390,7 @@ Distance:   |←──── DANGER ────→|←────── WARNIN
 ![Arduino Uno — Vehicle Realization](01-Assets/Realisation_Schematic_de_Arduino_Uno_côté_voiture_02.jpg)
 
  ###--------
-![Arduino Uno — Vehicle Realization](01-Assets/Realisation_Schematic_de_Arduino_Uno_côté_voiture_01.jpg)
+![Arduino Uno — Vehicle Realization](01-Assets/Realisation_Schematic_de_Arduino_Uno_côté_voiture_03.jpg)
 
 ---
 
