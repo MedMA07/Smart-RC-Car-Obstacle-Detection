@@ -1,14 +1,14 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%">
   <tr>
-    <td align="left" width="33%">
+    <th align="left">
       <img src="01-Assets/USTO-MB-Logo.png" width="100px" alt="USTO-MB Logo"/>
-    </td>
-    <td align="center" width="33%">
+    </th>
+    <th align="center">
       <img src="01-Assets/Principale-Logo.png" width="110px" alt="My Logo"/>
-    </td>
-    <td align="right" width="33%">
+    </th>
+    <th align="right">
       <img src="01-Assets/Faculti-Logo.png" width="90px" alt="Faculty Logo"/>
-    </td>
+    </th>
   </tr>
 </table>
 
