@@ -109,7 +109,7 @@ Obstacle-Detection-System/
 │   └── Arduino_Vehicle.ino                    # HC-SR04 + L298N + LEDs + Buzzer + NRF24L01 with PA and LNA  RX
 │
 ├── 📁 04-Documentation/                       # Project documentation (PDF + datasheets)
-│   ├── Project_Report.pdf
+│   ├── Rapport.pdf
 │   └── [datasheets...]
 │
 └── 📄 README.md                               # This file
